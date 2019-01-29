@@ -5,7 +5,7 @@
 
 <br/>
 
-###참고 자료
+### 참고 자료
 
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
