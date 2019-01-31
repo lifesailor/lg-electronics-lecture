@@ -9,7 +9,7 @@ def is_odd(x):
 
 def check_number(number):
     """
-    
+
     :param number:
     :return:
     """
